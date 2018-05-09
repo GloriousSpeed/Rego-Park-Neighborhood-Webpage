@@ -1,3 +1,3 @@
 # Hello World
 
-![](potato.png)
+![this be potat](potato.png)
